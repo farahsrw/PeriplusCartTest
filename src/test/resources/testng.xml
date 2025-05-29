@@ -1,8 +1,0 @@
-<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Periplus Test Suite">
-    <test name="Cart Tests">
-        <classes>
-            <class name="com.periplus.tests.CartTest"/>
-        </classes>
-    </test>
-</suite>
